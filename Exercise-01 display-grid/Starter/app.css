@@ -59,5 +59,7 @@ h1 {
 
   /* ⬇️⬇️⬇️ STYLE THE GRID CONTAINER HERE ⬇️⬇️⬇️ */
 
+  display: grid;
+  grid-template-columns: 300px 300px 300px;
   /* ⬆️⬆️⬆️ STYLE THE GRID CONTAINER HERE ⬆️⬆️⬆️ */
 }
