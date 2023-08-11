@@ -26,6 +26,8 @@
     - 100px */
 
   /* ⬇️⬇️⬇️ STYLE THE GRID CONTAINER HERE ⬇️⬇️⬇️ */
-
+display: grid;
+grid-template-columns: 200px 200px;
+grid-template-rows: 100px 400px 100px;
   /* ⬆️⬆️⬆️ STYLE THE GRID CONTAINER HERE ⬆️⬆️⬆️ */
 }
