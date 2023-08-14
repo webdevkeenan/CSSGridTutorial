@@ -27,15 +27,13 @@
 .header {
   background-color: #f44336bb;
   /* ⬇️⬇️⬇️ STYLE THE HEADER HERE ⬇️⬇️⬇️ */
-  grid-column-start: span 5;
+
   /* ⬆️⬆️⬆️ STYLE THE HEADER HERE ⬆️⬆️⬆️ */
 }
 
 .nav {
   background-color: #e91e63bb;
   /* ⬇️⬇️⬇️ STYLE THE NAV HERE ⬇️⬇️⬇️ */
-  grid-row-start: 2;
-  grid-row-end: span 3;
 
   /* ⬆️⬆️⬆️ STYLE THE NAV HERE ⬆️⬆️⬆️ */
 }
@@ -43,22 +41,20 @@
 .article {
   background-color: #9c27b0bb;
   /* ⬇️⬇️⬇️ STYLE THE ARTICLE HERE ⬇️⬇️⬇️ */
-  grid-area: 2 / 2 / 4 / 5;
+
   /* ⬆️⬆️⬆️ STYLE THE ARTICLE HERE ⬆️⬆️⬆️ */
 }
 
 .ads {
   background-color: #673ab7bb;
   /* ⬇️⬇️⬇️ STYLE THE ADS HERE ⬇️⬇️⬇️ */
-  grid-column-start: 5;
-  grid-row-start: 2;
-  grid-row-end: span 2;
+
   /* ⬆️⬆️⬆️ STYLE THE ADS HERE ⬆️⬆️⬆️ */
 }
 
 .footer {
   background-color: #2196f3bb;
   /* ⬇️⬇️⬇️ STYLE THE FOOTER HERE ⬇️⬇️⬇️ */
-  grid-column-end: span 4;
+  
   /* ⬆️⬆️⬆️ STYLE THE FOOTER HERE ⬆️⬆️⬆️ */
 }
